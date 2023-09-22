@@ -5,7 +5,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on new skills, SOFT skills..
+- 🔭 I’m currently working on new skills
 - 🌱 I’m currently learning **AWS, Linux, Networking, IAC, DevOps tools, Terraform etc.**
 - I'm currently attending AWS DevOps Mentorship by Dzenan Dzevlan
 - Interested in HTML, CSS, WebFlow 
