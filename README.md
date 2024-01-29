@@ -6,8 +6,7 @@
 <br>
 
 - 🔭 I’m currently working on new skills
-- 🌱 I’m currently learning **AWS, Linux, Networking, IAC, DevOps tools, Terraform etc.**
-- I'm currently attending AWS DevOps Mentorship by Dzenan Dzevlan
+- 🌱 I’m currently learning **AWS, Linux, DevOps tools etc.**
 - Interested in HTML, CSS, WebFlow 
 
 <br>
